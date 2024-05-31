@@ -8,7 +8,8 @@
 Jacob was a 17th century mathematican probably most famous for his book `Ars Conjectandi` on combinatorics and probability.
 
 A random experiment with only two outcomes `success` and `failure` where the probability of success is the same in each experiement
-is called a Bernoulli trial or binomial trial.
+is called a Bernoulli trial or binomial trial. A chess streak could losely be modelled as the probability of at least k consecutive successes
+in a Bernoulli trial.
 
 ## Vilfredo Pareto
 
